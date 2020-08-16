@@ -33,6 +33,7 @@ if __name__ == "__main__":
 
         elif choice_check == "no":
             print("\nplease reenter the values")
+print("Thank you for using the school administration tool!")
 
 
         
